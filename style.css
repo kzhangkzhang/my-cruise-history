@@ -100,17 +100,20 @@ body {
 /* Backgorund Images */
 
 .slide:first-child {
-  background: url("./img/disney_magic.jpg") no-repeat center top/cover;
+  background: url("./img/rcl_majesty_of_sea.jpg") no-repeat center top/cover;
 }
 .slide:nth-child(2) {
-  background: url("img/rcl_independence_of_sea.jpg") no-repeat center top/cover;
+  background: url("./img/disney_magic.jpg") no-repeat center top/cover;
 }
 .slide:nth-child(3) {
-  background: url("img/ncl_escape.jpg") no-repeat center top/cover;
+  background: url("img/rcl_independence_of_sea.jpg") no-repeat center top/cover;
 }
 .slide:nth-child(4) {
-  background: url("img/ncl_bliss.jpg") no-repeat center top/cover;
+  background: url("img/ncl_escape.jpg") no-repeat center top/cover;
 }
 .slide:nth-child(5) {
+  background: url("img/ncl_bliss.jpg") no-repeat center top/cover;
+}
+.slide:nth-child(6) {
   background: url("img/ncl_epic.jpg") no-repeat center top/cover;
 }
