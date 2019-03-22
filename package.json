@@ -1,0 +1,11 @@
+{
+  "name": "mycruisehistory",
+  "version": "1.0.0",
+  "description": "cruise history via html, css and JS",
+  "main": "main.js",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "author": "Kevin Zhang",
+  "license": "ISC"
+}
